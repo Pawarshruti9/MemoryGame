@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MemoryGame/static/css/main.7fa4d327.css",
-    "main.js": "/MemoryGame/static/js/main.f2c27396.js",
+    "main.css": "/MemoryGame/static/css/main.27711f70.css",
+    "main.js": "/MemoryGame/static/js/main.7768a89f.js",
     "static/media/education.png": "/MemoryGame/static/media/education.63b0ac5248ca5bde3ba8.png",
     "static/media/right_to_constitutional_remedies.png": "/MemoryGame/static/media/right_to_constitutional_remedies.aa776f7d10bc5a2c2c9c.png",
     "static/media/freedom_of_speech.png": "/MemoryGame/static/media/freedom_of_speech.4b41179077d5e736a477.png",
@@ -9,11 +9,11 @@
     "static/media/religious_freedom.png": "/MemoryGame/static/media/religious_freedom.7e205c0e72eef3e02f07.png",
     "static/media/protection_from_exploitation.png": "/MemoryGame/static/media/protection_from_exploitation.1f7e70a414ea236ba104.png",
     "index.html": "/MemoryGame/index.html",
-    "main.7fa4d327.css.map": "/MemoryGame/static/css/main.7fa4d327.css.map",
-    "main.f2c27396.js.map": "/MemoryGame/static/js/main.f2c27396.js.map"
+    "main.27711f70.css.map": "/MemoryGame/static/css/main.27711f70.css.map",
+    "main.7768a89f.js.map": "/MemoryGame/static/js/main.7768a89f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fa4d327.css",
-    "static/js/main.f2c27396.js"
+    "static/css/main.27711f70.css",
+    "static/js/main.7768a89f.js"
   ]
 }
